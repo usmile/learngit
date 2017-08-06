@@ -10,3 +10,10 @@ dev temp 2
 
 master branch configlict 1
 dev branch configlict 2
+
+
+dev add 1
+dev add 2
+dev add 3
+
+
