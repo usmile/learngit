@@ -29,4 +29,6 @@ int bar()
     printf("add by mac os 5");
     
     printf("bug fix pull request");
+    
+    printf("bug fix 2");
 }
