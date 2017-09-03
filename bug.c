@@ -16,3 +16,8 @@ int func()
 
     return 0;
 }
+
+int bar()
+{
+    printf("add by mac os");
+}
