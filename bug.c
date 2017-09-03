@@ -1,3 +1,7 @@
+int foo()
+{
+    printf("add by github");
+}
 int main()
 {
     printf("hello");
