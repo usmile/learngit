@@ -27,4 +27,6 @@ int bar()
     printf("add by github 4");
     printf("add by github 5");
     printf("add by mac os 5");
+    
+    printf("bug fix pull request");
 }
