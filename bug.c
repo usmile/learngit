@@ -20,4 +20,5 @@ int func()
 int bar()
 {
     printf("add by mac os 1");
+    printf("add by mac os 2");
 }
