@@ -23,4 +23,5 @@ int bar()
     printf("add by mac os 2");
     printf("add by github 3");
     printf("add by mac os 3");
+    printf("add by mac os 4");
 }
