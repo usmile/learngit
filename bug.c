@@ -5,3 +5,10 @@ int main()
     printf("1");
     return 0;
 }
+
+int func()
+{
+    printf("this is add by mac os");
+
+    return 0;
+}
